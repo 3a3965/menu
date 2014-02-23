@@ -1,0 +1,7 @@
+@charset "utf-8";
+.main{
+width: 100%;
+}
+body{
+background: url(images/food.png);
+}
